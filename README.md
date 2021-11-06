@@ -1,2 +1,4 @@
 **************************
-The README for the ambassadors project
+CSS Grid auto fill test
+
+To test displaying gallery images in a responsive manner
